@@ -1,5 +1,5 @@
-# OpenMLLM
-Open Source + Multilingual MLLM + Fine-tuning + Distillation + More efficient models and learning + ?
+# OpenLLM
+Open Source + Multilingual LLM + Fine-tuning + Distillation + More efficient models and learning + ?
 
 ## Help
 We're looking for someone to join us in implementing a top-performing MLLM model.
